@@ -1,0 +1,23 @@
+.banner_img{
+    width: 100vw;
+    height: 280px;
+}
+.carasousel{
+    margin-top: 10px;
+}
+/* 
+@media (min-width:488px){
+    .banner_img {width: 400px;}
+} */
+
+/* @media (min-width: 480px) {
+    .carasousel { height: 200px; }
+}
+
+@media (min-width: 768px) {
+    .carasousel { height: 150px; }
+}
+
+@media (min-width: 992px) {
+    .carasousel { height: 100px; }
+} */
